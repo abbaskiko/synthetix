@@ -301,7 +301,7 @@ $ npx synthetix synths --network rinkeby --key name
 $ npx synthetix target --network rinkeby --contract ProxySynthetix
 {
   "name": "ProxySynthetix",
-  "address": "0x322A3346bf24363f451164d96A5b5cd5A7F4c337",
+  "address": "0x5b94bFD07fcd3D6b1a53Ac1f7cB9e0fD9c383030",
   "source": "Proxy",
   "link": "https://rinkeby.etherscan.io/address/0x322A3346bf24363f451164d96A5b5cd5A7F4c337",
   "timestamp": "2019-03-06T23:05:43.914Z",
